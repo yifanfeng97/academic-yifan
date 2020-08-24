@@ -22,7 +22,7 @@ social:
     link: https://github.com/yifanfeng97
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=WntYF-sAAAAJ&hl=zh-CN
+    link: https://scholar.google.com.hk/citations?user=WntYF-sAAAAJ
 education:
   courses:
     - course: M.S. in Intelligent Science and Technology
