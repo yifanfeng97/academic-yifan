@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 view: 2
 title: "What's the Next of Hypergraph Neural Networks Framework? "
 subtitle: Rethinking Hypergraph Learning Pipeline
