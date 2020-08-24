@@ -1,12 +1,13 @@
 ---
+title: Yifan Feng
+role: M.S. of Artificial Science and Technology
+avatar_filename: wechata36ac19b7ff0c4ab5e41cecfd3129a3c.png
 organizations:
   - name: Xiamen University
     url: https://www.xmu.edu.cn/
 superuser: true
 authors:
   - admin
-title: Yifan Feng
-role: M.S. of Artificial Science and Technology
 bio: My research interests include Complex Network, 3D Vision, Graph Theory,
   Algebraic Topology, and Brain Science.
 interests:
