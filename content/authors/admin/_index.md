@@ -1,6 +1,6 @@
 ---
 title: Yifan Feng
-role: M.S. of Artificial Science and Technology
+role: M.S. of Intelligent Science and Technology
 avatar_filename: avatar.jpg
 organizations:
   - name: Xiamen University
@@ -17,29 +17,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
+  - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: "#contact"
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=WntYF-sAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/yifanfeng97
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: M.S. in Intelligent Science and Technology
+      institution: Xiamen University
+      year: 2021
+    - course: B.S. in Computer Science
+      institution: Xidian University
+      year: 2018
+email: evanfeng97@gmail.com
 user_groups:
   - Researchers
   - Visitors
 ---
-I'm currently a second-year artificial science and technology M.S. student in the [School of Informatics and Science](https://informatics.xmu.edu.cn/) at [Xiamen University](https://www.xmu.edu.cn/). I am advised by Professor [Rongrong Ji](https://mac.xmu.edu.cn/). At the same time, I have joined the iMoon-Lab since 2017.2 ( supervised by Professor [Yue Gao](http://gaoyue.org/cn/index)). My research interests include Complex Network, 3D Vision, Graph Theory, Algebraic Topology, and Brain Science.
+I'm currently a second-year intelligent science and technology M.S. student in the [School of Informatics and Science](https://informatics.xmu.edu.cn/) at [Xiamen University](https://www.xmu.edu.cn/). I am advised by Professor [Rongrong Ji](https://mac.xmu.edu.cn/). At the same time, I have joined the iMoon-Lab since 2017.2 ( supervised by Professor [Yue Gao](http://gaoyue.org/cn/index)). My research interests include Complex Network, 3D Vision, Graph Theory, Algebraic Topology, and Brain Science.
