@@ -17,15 +17,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: weixin
-    icon_pack: fab
-    link: "#contact"
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=WntYF-sAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/yifanfeng97
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=WntYF-sAAAAJ&hl=zh-CN
 education:
   courses:
     - course: M.S. in Intelligent Science and Technology
