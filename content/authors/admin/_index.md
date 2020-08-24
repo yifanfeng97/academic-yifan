@@ -1,5 +1,5 @@
 ---
-title: Yifan Feng
+title: 丰一帆
 role: M.S. of Intelligent Science and Technology
 avatar_filename: avatar.jpg
 organizations:
