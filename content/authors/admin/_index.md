@@ -1,7 +1,7 @@
 ---
 title: Yifan Feng
 role: M.S. of Artificial Science and Technology
-avatar_filename: wechata36ac19b7ff0c4ab5e41cecfd3129a3c.png
+avatar_filename: avatar.jpg
 organizations:
   - name: Xiamen University
     url: https://www.xmu.edu.cn/
