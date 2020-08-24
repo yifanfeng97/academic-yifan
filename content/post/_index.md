@@ -1,7 +1,7 @@
 ---
 draft: true
 view: 2
-title: "What's Next of Hypergraph Neural Networks Framework? "
+title: "What's the Next of Hypergraph Neural Networks Framework? "
 subtitle: Rethinking Hypergraph Learning Pipeline
 date: 2020-08-24T11:12:14.464Z
 summary: Here we define a general data structure for high-order learning. To Be
