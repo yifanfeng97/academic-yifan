@@ -9,9 +9,11 @@ date_end: 2019-10-13T11:20:00.691Z
 all_day: false
 links:
   - url: https://www.miccai2019.org/programme/workshops-challenges-tutorials/
-    name: Link
+    name: MICCAI 2019
+  - url: http://gaoyue.org/miccai19-hypergraph
+    name: Detail
 event: "Tutorial: A Tutorial on Hypergraph Neural Network Toolbox"
-event_url: https://www.miccai2019.org/programme/workshops-challenges-tutorials/
+event_url: http://gaoyue.org/miccai19-hypergraph
 publishDate: 2020-08-24T12:54:13.399Z
 draft: false
 featured: true
