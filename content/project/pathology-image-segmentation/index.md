@@ -19,4 +19,4 @@ image:
   preview_only: true
   caption: "Left: Pathology Image. Right: Segmentation Results."
 ---
-This work has been done in my intern in Baidu IDL (Insititute of Deep Learning). I was also got my bachelor degree with this project. For more detail please refer to my B.S. Dissertation Paper.
+This work has been done during my intern in Baidu IDL (Insititute of Deep Learning). I was also got my bachelor degree with this project. For more detail please refer to my B.S. Dissertation Paper.

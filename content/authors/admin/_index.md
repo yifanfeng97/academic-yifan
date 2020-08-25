@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto:evanfeng97@gmail.com"
   - icon: github
     icon_pack: fab
     link: https://github.com/yifanfeng97

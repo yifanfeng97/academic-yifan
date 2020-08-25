@@ -16,7 +16,7 @@ abstract: 'Emotion recognition by physiological signals is an effective way to d
 featured: false
 publication: '*ACM Transactions on Multimedia Computing, Communications, and Applications
   (TOMM)*'
-publication_short: 'TOMM'
+publication_short: 'TOMM 2019'
 
 summary: ''
 

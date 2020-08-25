@@ -1,6 +1,6 @@
 ---
 title: 'MeshNet: Mesh Neural Network for 3D Shape Representation'
-date: '2018-01-01'
+date: '2019-01-01'
 draft: false
 publishDate: '2020-08-25T03:25:57.860913Z'
 authors:

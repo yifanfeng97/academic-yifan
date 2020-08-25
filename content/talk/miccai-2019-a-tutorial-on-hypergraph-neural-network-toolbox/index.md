@@ -4,8 +4,8 @@ abstract: 'We organize a tutorial about "Hypergraph Learning: Methods, Tools and
   Applications in Medical Image Analysis". I give a talk about "A Tutorial on
   Hypergraph Neural Network Toolbox".'
 location: Shenzhen, China
-date: 2020-08-24T12:54:13.374Z
-date_end: 2020-08-24T12:59:34.691Z
+date: 2019-10-13T08:00:00.374Z
+date_end: 2019-10-13T11:20:00.691Z
 all_day: false
 links:
   - url: https://www.miccai2019.org/programme/workshops-challenges-tutorials/

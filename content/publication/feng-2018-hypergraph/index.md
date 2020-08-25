@@ -1,6 +1,6 @@
 ---
 title: Hypergraph Neural Networks
-date: '2018-01-01'
+date: '2019-01-01'
 draft: false
 publishDate: '2020-08-25T03:25:57.763304Z'
 authors:
