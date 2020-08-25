@@ -1,7 +1,7 @@
 ---
 title: Hypergraph Neural Networks
 date: '2018-01-01'
-draft: true
+draft: false
 publishDate: '2020-08-25T03:25:57.763304Z'
 authors:
 - Yifan Feng
@@ -11,8 +11,24 @@ authors:
 - Yue Gao
 publication_types:
 - 1
-abstract: ''
+abstract: 'In this paper, we present a hypergraph neural networks (HGNN) framework for data representation learning, which can encode high-order data correlation in a hypergraph structure. Confronting the challenges of learning representation for complex data in real practice, we propose to incorporate such data structure in a hypergraph, which is more flexible on data modeling, especially when dealing with complex data. In this method, a hyperedge convolution operation is designed to handle the data correlation during representation learning. In this way, traditional hypergraph learning procedure can be conducted using hyperedge convolution operations efficiently. HGNN is able to learn the hidden layer representation considering the high-order data structure, which is a general framework considering the complex data correlations. We have conducted experiments on citation network classification and visual object recognition tasks and compared HGNN with graph convolutional networks and other traditional methods. Experimental results demonstrate that the proposed HGNN method outperforms recent state-of-theart methods. We can also reveal from the results that the proposed HGNN is superior when dealing with multi-modal data compared with existing methods.'
 featured: false
-publication: '*AAAI 2019*'
+publication: '*AAAI Conference on Artificial Intelligence 2019*'
+publication_short: "AAAI 2019"
+
+summary: ''
+
+tags:
+- Hypergraph
+- Hypergraph Neural Networks
+- Complex Network
+
+url_pdf: "https://www.aaai.org/ojs/index.php/AAAI/article/download/4235/4113"
+url_code: 'https://github.com/iMoonLab/HGNN'
+
+image:
+  caption: 'HGNN Framework'
+  focal_point: "right"
+  preview_only: false
 ---
 
