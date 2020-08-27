@@ -4,11 +4,11 @@ date: '2020-08-01'
 draft: false
 publishDate: '2020-08-25T03:25:58.052289Z'
 authors:
-- Ji Shuyi
+- Shuyi Ji
 - Yifan Feng
 - Rongrong Ji
-- Zhao Xibin
-- ' Wanwan Tang'
+- Xibin Zhao
+- Wanwan Tang
 - Yue Gao
 publication_types:
 - 1
